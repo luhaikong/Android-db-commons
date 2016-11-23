@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-db-commons</string>
+
+    <string name="toggle_fragment">Toggle fragment</string>
+</resources>
